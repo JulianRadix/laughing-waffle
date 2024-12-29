@@ -94,6 +94,8 @@
     background: var(--secondary-color);
     border-radius: 64px;
     cursor: pointer;
+
+    color: #fff;
 }
 
 .popular-foods__button img {
